@@ -10,7 +10,7 @@
 2. 
 ![Alt text](image-2.png)
 
-3. 
+3. Установка и удаление deb-пакета с помощью dpkg
 ![Alt text](image-30.png)
 
 3. 
