@@ -54,3 +54,20 @@
 
 17. 
 ![Alt text](image-17.png)
+
+18. 
+Удалить из таблицы верблюдов, т.к. верблюдов решили перевезти в другой питомник на зимовку. 
+
+SET SQL_SAFE_UPDATES = 0;
+DELETE FROM camels;
+
+Команда показана, но не выполнялась в учебных целях
+
+19. 
+![Alt text](image-19.png)
+
+20. 
+![Alt text](image-20.png)
+
+21. 
+![Alt text](image-21.png)
