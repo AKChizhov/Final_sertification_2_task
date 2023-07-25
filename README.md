@@ -31,3 +31,23 @@
 9. 
 ![Alt text](image-9.png)
 
+10. 
+![Alt text](image-10.png)
+
+11. 
+![Alt text](image-11.png)
+
+12. 
+![Alt text](image-12.png)
+
+13. 
+![Alt text](image-13.png)
+
+14. 
+![Alt text](image-14.png)
+
+15. 
+![Alt text](image-15.png)
+
+16. 
+![Alt text](image-16.png)
