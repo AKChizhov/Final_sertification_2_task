@@ -4,13 +4,16 @@
 ![Alt text](image-01.png)
 ![Alt text](image-02.png)
 
-1. 
+1. Проброс портов.
 ![Alt text](image-1.png)
-2. 
+
+2. Установка mysql-server
 ![Alt text](image-2.png)
+
 3. Установка и удаление deb-пакета с помощью dpkg
 ![Alt text](image-30.png)
-3. 
+
+3. Запуск mysql
 ![Alt text](image-3.png)
 4. 
 ![Alt text](image-4.png)
@@ -30,6 +33,7 @@
 ![Alt text](image-11.png)
 12. 
 ![Alt text](image-12.png)
+
 13. 
 ![Alt text](image-13.png)
 14. 
@@ -45,13 +49,13 @@
 
 SET SQL_SAFE_UPDATES = 0;
 DELETE FROM camels;
-
-Команда показана, но не выполнялась в учебных целях
+Команда показана, но не выполнялась для дальнейших учебных целей
 
 19. 
 ![Alt text](image-19.png)
 20. 
 ![Alt text](image-20.png)
+
 21. Выборка животных возрастом от 1 года до 3 с указанием 
 возраста в месяцах.
 ![Alt text](image-21.png)
