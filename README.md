@@ -109,3 +109,7 @@ DELETE FROM camels;
 
 ![Alt text](image-25.png)
 
+21. Демонстрация работоспособности программы
+
+![File](file.png)
+

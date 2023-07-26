@@ -1,0 +1,16 @@
+D:\AnyHomeWorks\Final_sertification_2_task\by_C#\bin\Debug\net5.0\IntermediaTask.exe
+D:\AnyHomeWorks\Final_sertification_2_task\by_C#\bin\Debug\net5.0\IntermediaTask.deps.json
+D:\AnyHomeWorks\Final_sertification_2_task\by_C#\bin\Debug\net5.0\IntermediaTask.runtimeconfig.json
+D:\AnyHomeWorks\Final_sertification_2_task\by_C#\bin\Debug\net5.0\IntermediaTask.runtimeconfig.dev.json
+D:\AnyHomeWorks\Final_sertification_2_task\by_C#\bin\Debug\net5.0\IntermediaTask.dll
+D:\AnyHomeWorks\Final_sertification_2_task\by_C#\bin\Debug\net5.0\IntermediaTask.pdb
+D:\AnyHomeWorks\Final_sertification_2_task\by_C#\obj\Debug\net5.0\IntermediaTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\AnyHomeWorks\Final_sertification_2_task\by_C#\obj\Debug\net5.0\IntermediaTask.AssemblyInfoInputs.cache
+D:\AnyHomeWorks\Final_sertification_2_task\by_C#\obj\Debug\net5.0\IntermediaTask.AssemblyInfo.cs
+D:\AnyHomeWorks\Final_sertification_2_task\by_C#\obj\Debug\net5.0\IntermediaTask.csproj.CoreCompileInputs.cache
+D:\AnyHomeWorks\Final_sertification_2_task\by_C#\obj\Debug\net5.0\IntermediaTask.dll
+D:\AnyHomeWorks\Final_sertification_2_task\by_C#\obj\Debug\net5.0\ref\IntermediaTask.dll
+D:\AnyHomeWorks\Final_sertification_2_task\by_C#\obj\Debug\net5.0\IntermediaTask.pdb
+D:\AnyHomeWorks\Final_sertification_2_task\by_C#\obj\Debug\net5.0\IntermediaTask.genruntimeconfig.cache
+D:\AnyHomeWorks\Final_sertification_2_task\by_C#\obj\Debug\net5.0\IntermediaTask.csproj.AssemblyReference.cache
+D:\AnyHomeWorks\Final_sertification_2_task\by_C#\obj\Debug\net5.0\refint\IntermediaTask.dll
